@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"52e3249d70ede84a","type":"file","file":"Strategy.md","x":-140,"y":-320,"width":400,"height":400},
-		{"id":"331bc9bb17bb3d12","x":-140,"y":360,"width":400,"height":400,"type":"file","file":"Discovery.md"}
+		{"id":"331bc9bb17bb3d12","type":"file","file":"Discovery.md","x":-140,"y":360,"width":580,"height":400},
+		{"id":"40da5de8b79a6a50","type":"file","file":"Delivery.md","x":-140,"y":860,"width":700,"height":400},
+		{"id":"52e3249d70ede84a","type":"file","file":"Strategy.md","x":-140,"y":-120,"width":580,"height":400}
 	],
 	"edges":[
-		{"id":"7c6869430d05c71e","fromNode":"52e3249d70ede84a","fromSide":"bottom","toNode":"331bc9bb17bb3d12","toSide":"top"}
+		{"id":"7c6869430d05c71e","fromNode":"52e3249d70ede84a","fromSide":"bottom","toNode":"331bc9bb17bb3d12","toSide":"top"},
+		{"id":"20d384945adc896b","fromNode":"331bc9bb17bb3d12","fromSide":"bottom","toNode":"40da5de8b79a6a50","toSide":"top"}
 	]
 }
