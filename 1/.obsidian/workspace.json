@@ -6,6 +6,7 @@
       {
         "id": "e5d5a7ac34e4e6ff",
         "type": "tabs",
+        "dimension": 54.78036175710594,
         "children": [
           {
             "id": "3d79d0b020792112",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Strategy"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "0b0eb94a6e6ec3a6",
         "type": "tabs",
+        "dimension": 45.21963824289406,
         "children": [
           {
             "id": "23afb08dcd128839",
@@ -94,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 205.5
   },
   "right": {
     "id": "05d71811ea29b8d7",
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Strategy"
             }
           },
           {
@@ -129,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Strategy"
             }
           },
           {
@@ -172,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Strategy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Strategy"
             }
           }
         ]
@@ -201,6 +203,7 @@
   },
   "active": "3d79d0b020792112",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Map.canvas",
+    "Strategy.md"
   ]
 }
