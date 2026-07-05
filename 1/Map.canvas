@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"52e3249d70ede84a","x":-140,"y":-320,"width":400,"height":400,"type":"file","file":"Strategy.md"}
+		{"id":"52e3249d70ede84a","type":"file","file":"Strategy.md","x":-140,"y":-320,"width":400,"height":400},
+		{"id":"331bc9bb17bb3d12","x":-140,"y":360,"width":400,"height":400,"type":"file","file":"Discovery.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"7c6869430d05c71e","fromNode":"52e3249d70ede84a","fromSide":"bottom","toNode":"331bc9bb17bb3d12","toSide":"top"}
+	]
 }
